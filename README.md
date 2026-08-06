@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Miller Arian</h1>
+<h3 align="center">Full-stack developer from Paraguay 🇵🇾 | Building ERP/POS systems & more</h3>
 
-<!--
-**Miller-Arian/Miller-Arian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=miller-arian&label=Profile%20views&color=c40005&style=flat-square" alt="miller-arian" />
+  <img src="https://img.shields.io/github/followers/miller-arian?label=Follow&style=social" alt="followers" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,js,react,electron,nodejs,docker,nginx,linux,git,godot,grafana,blender" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miller-arian&theme=radical" alt="miller-arian streak" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miller-arian&theme=react-dark" alt="miller-arian activity graph" width="90%"/>
+</p>
