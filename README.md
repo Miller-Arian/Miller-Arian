@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miller Arian</h1>
-<h3 align="center">Full-stack developer from Paraguay 🇵🇾 | Building ERP/POS systems & more</h3>
+<h3 align="center">Developer from Paraguay 🇵🇾 | Building systems & more</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=miller-arian&label=Profile%20views&color=c40005&style=flat-square" alt="miller-arian" />
