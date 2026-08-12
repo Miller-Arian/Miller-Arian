@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Miller Arian</h1>
+<h1 align="center">Hi, I'm Miller Arian</h1>
 <h3 align="center">Developer from Paraguay 🇵🇾 | Building systems & more</h3>
 
 <p align="center">
