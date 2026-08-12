@@ -15,9 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miller-arian&theme=radical" alt="miller-arian streak" width="60%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miller-arian&theme=react-dark" alt="miller-arian activity graph" width="90%"/>
 </p>
